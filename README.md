@@ -17,5 +17,5 @@ This repository contains the source code for the AI-driven chatbot developed dur
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
-   cd your-repository-name
+   https://github.com/LubangaD/chat_csv-streamlit-AKI-hackathon.git
+   cd chat_csv-streamlit-AKI-hackathon
